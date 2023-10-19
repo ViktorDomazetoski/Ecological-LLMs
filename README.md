@@ -29,5 +29,5 @@ The codebase consists of jupyter notebooks divided by task:
   * **English categorical trait extraction** - prediction of species' categorical traits (growth form, life form) from English species' descriptions.
   * **Spanish & German categorical trait extraction** - prediction of species' categorical traits (growth form, life form) from Spanish and German species' descriptions through multilingual language models.
   * **Trait extraction in a data-deficient regime** - prediction of species' categorical traits using a small subset of English species' descriptions.
- * **Numerical trait extraction** - extraction of numerical traits using question answering language models.
+  * **Numerical trait extraction** - extraction of numerical traits using question answering language models.
  
